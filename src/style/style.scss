@@ -1,0 +1,67 @@
+.layout{
+    border: 1px solid #d7dde4;
+    background: #f5f7f9;
+    position: relative;
+}
+.layout-breadcrumb{
+    padding: 10px 15px 0;
+}
+.layout-content{
+    min-height: 480px;
+    margin: 15px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 4px;
+}
+.layout-content-main{
+    padding: 10px;
+}
+.layout-copy{
+    text-align: center;
+    padding: 10px 0 20px;
+    color: #9ea7b4;
+}
+.layout-menu-left{
+    background: #464c5b;
+}
+.layout-header{
+    height: 60px;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.layout-logo-left{
+    width: 90%;
+    height: 30px;
+    background: #5b6270;
+    border-radius: 3px;
+    margin: 15px auto;
+}
+
+.input-select-class {
+	width: 200px;
+    padding-bottom:5px;
+}
+
+.input-select-width-middle-class {
+	width: 400px;
+}
+
+.layout-content-main{
+    padding: 10px;
+}
+.hr1{ 
+    height:1px;
+    border:none;
+    border-top:1px solid #dddee1;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.table-form-input-select-col{
+    padding:2px 5px 2px 5px;
+}
+.content-div{
+    margin-bottom:5px;
+}
+.content-table-modal-show-p{
+    font-size:24px;
+}
